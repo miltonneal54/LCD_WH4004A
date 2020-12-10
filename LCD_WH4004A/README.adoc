@@ -1,0 +1,27 @@
+= Liquid Crystal Library for Arduino =
+
+This modified library allows an Arduino board to control Winstar WH4004A and compatible 
+40 character x 4 line LiquidCrystal displays (LCDs) based on the Hitachi HD44780
+(or a compatible) chipset. This library supports the 2 independant controllers of the
+display, one for lines 1 and 2 and the second for lines 3 and 4 by the use of 2 separate 
+enable lines.
+
+== License ==
+
+Copyright (C) 2006-2008 Hans-Christoph Steiner. All rights reserved.
+Copyright (c) 2010 Arduino LLC. All rights reserved.
+Copyright (c) 2020 Milton Neal. All rights reserved.
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, write to the Free Software
+Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
