@@ -1,4 +1,4 @@
-# LCD_WH4004A
+# Arduino LCD_WH4004A Library
 Ardunio library for WH4004a and compatible lcd displays.
 This modified library allows an Arduino board to control Winstar WH4004A and compatible 
 40 character x 4 line LiquidCrystal displays (LCDs) based on the Hitachi HD44780
